@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/praveenorugantitech-ipaddress-tracker-reactjs/static/css/main.6a4ac475.chunk.css",
+    "main.js": "/praveenorugantitech-ipaddress-tracker-reactjs/static/js/main.6743b712.chunk.js",
+    "runtime-main.js": "/praveenorugantitech-ipaddress-tracker-reactjs/static/js/runtime-main.f9d403e0.js",
+    "static/css/2.6aef49ee.chunk.css": "/praveenorugantitech-ipaddress-tracker-reactjs/static/css/2.6aef49ee.chunk.css",
+    "static/js/2.b9e8f96a.chunk.js": "/praveenorugantitech-ipaddress-tracker-reactjs/static/js/2.b9e8f96a.chunk.js",
+    "index.html": "/praveenorugantitech-ipaddress-tracker-reactjs/index.html",
+    "static/js/2.b9e8f96a.chunk.js.LICENSE.txt": "/praveenorugantitech-ipaddress-tracker-reactjs/static/js/2.b9e8f96a.chunk.js.LICENSE.txt",
+    "static/media/icon-location.7e6459d2.svg": "/praveenorugantitech-ipaddress-tracker-reactjs/static/media/icon-location.7e6459d2.svg",
+    "static/media/App.scss": "/praveenorugantitech-ipaddress-tracker-reactjs/static/media/pattern-bg.a60a3c85.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9d403e0.js",
+    "static/css/2.6aef49ee.chunk.css",
+    "static/js/2.b9e8f96a.chunk.js",
+    "static/css/main.6a4ac475.chunk.css",
+    "static/js/main.6743b712.chunk.js"
+  ]
+}
